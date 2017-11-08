@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+
+data/*
+!data/template/index.htm
+
+config_global.php
